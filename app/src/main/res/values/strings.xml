@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Retailers_project</string>
+    <string name="default_web_client_id">1088934599456-2t52dql7lp8bo2fcdumq7rpg316573cd.apps.googleusercontent.com</string>
+    <string-array name="Shop_type">
+        <item>Doctor</item>
+        <item>General Store</item>
+        <item>Vegetable Shop</item>
+        <item>Medical Store</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="districts_array">
+        <item>Agra</item>
+        <item>Aligarh</item>
+        <item>Allahabad</item>
+        <item>Ambedkar Nagar</item>
+        <item>Amethi</item>
+        <item>Amroha</item>
+        <item>Auraiya</item>
+        <item>Ayodhya</item>
+        <item>Azamgarh</item>
+        <item>Baghpat</item>
+        <item>Bahraich</item>
+        <item>Ballia</item>
+        <item>Balrampur</item>
+        <item>Banda</item>
+        <item>Barabanki</item>
+        <item>Bareilly</item>
+        <item>Basti</item>
+        <item>Bhadohi</item>
+        <item>Bijnor</item>
+        <item>Budaun</item>
+        <item>Bulandshahr</item>
+        <item>Chandauli</item>
+        <item>Chitrakoot</item>
+        <item>Deoria</item>
+        <item>Etah</item>
+        <item>Etawah</item>
+        <item>Farrukhabad</item>
+        <item>Fatehpur</item>
+        <item>Firozabad</item>
+        <item>Gautam Buddh Nagar</item>
+        <item>Ghaziabad</item>
+        <item>Ghazipur</item>
+        <item>Gonda</item>
+        <item>Gorakhpur</item>
+        <item>Hamirpur</item>
+        <item>Hapur</item>
+        <item>Hardoi</item>
+        <item>Hathras</item>
+        <item>Jalaun</item>
+        <item>Jaunpur</item>
+        <item>Jhansi</item>
+        <item>Kannauj</item>
+        <item>Kanpur Dehat</item>
+        <item>Kanpur Nagar</item>
+        <item>Kasganj</item>
+        <item>Kaushambi</item>
+        <item>Kushinagar</item>
+        <item>Lakhimpur Kheri</item>
+        <item>Lalitpur</item>
+        <item>Lucknow</item>
+        <item>Maharajganj</item>
+        <item>Mainpuri</item>
+        <item>Mathura</item>
+        <item>Mau</item>
+        <item>Meerut</item>
+        <item>Mirzapur</item>
+        <item>Moradabad</item>
+        <item>Muzaffarnagar</item>
+        <item>Pilibhit</item>
+        <item>Pratapgarh</item>
+        <item>Rae Bareli</item>
+        <item>Rampur</item>
+        <item>Saharanpur</item>
+        <item>Sambhal</item>
+        <item>Sant Kabir Nagar</item>
+        <item>Shahjahanpur</item>
+        <item>Shamli</item>
+        <item>Shrawasti</item>
+        <item>Siddharthnagar</item>
+        <item>Sitapur</item>
+        <item>Sonbhadra</item>
+        <item>Sultanpur</item>
+        <item>Unnao</item>
+        <item>Varanasi</item>
+    </string-array>
+
+</resources>
